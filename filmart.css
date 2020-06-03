@@ -1,0 +1,80 @@
+body{
+    font-family: 'Comic Neue', cursive;
+    background-color: #2f2f31;
+}
+.navBar{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.navLink a{
+    font-family: 'Pacifico', cursive;
+    text-decoration: none;
+    color: #ffffff;
+    font-size:1.5rem;
+    font-weight: 700;
+}
+.navLogo a{
+    font-family: 'Pacifico', cursive;
+    text-decoration: none;
+    color:#ffffff;
+    font-size: 2.5rem;
+}
+.about{
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+}
+.about h1,h5{
+    text-align: center;
+    color: #ffffff;
+}
+.about h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 4rem;
+}
+.cover img{
+    width:25%;
+    height: 500px;
+}
+#gallery{
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+#gallery .flex-column{
+    max-width: 20%;
+}
+#gallery .long{
+    width: 100%;
+    height: 350px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 1rem;
+}
+#gallery .short{
+    width:100%;
+    height: 150px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 1rem;
+}
+.feature img{
+    width:100%;
+    height: 100%;
+    margin-bottom: 0rem;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+    font-weight: 700;
+    font-size: 2rem;
+    letter-spacing: 0.5rem;
+    text-align: center;
+    color:white;
+    margin-bottom: 2rem;
+}
+footer h5 a{
+    font-family: 'Pacifico', cursive;
+    text-decoration: none;
+    color: #ffffff;
+    font-size:1.5rem;
+    font-weight: 700;
+
+}
